@@ -42,4 +42,4 @@ This project is open-source under the MIT License.
 
 [The logo icon is created by Freepik - Flaticon](https://www.flaticon.com/free-icons/shine)
 
-Built with 🫀 by a Curious Developer 🚀
+Built with 🫀 by a Curious Developer in help of AI 🚀
