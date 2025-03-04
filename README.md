@@ -17,7 +17,7 @@
    git clone https://github.com/letFardin/neo-translate.git
    ```
 
-2. Open your **Chromium** based browser (Like **Chrome**) and go to chrome://extensions/.
+2. Open your **Chromium** based browser (Like **Chrome** or **Edge**) and go to chrome://extensions/.
 3. Enable **Developer Mode** (top right corner).
 4. Click **"Load Unpacked"**, select this project folder.
 5. The extension icon will appear in your browser toolbar! 🎉
