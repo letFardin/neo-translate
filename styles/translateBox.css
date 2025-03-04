@@ -1,0 +1,22 @@
+.neo-translate-box {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.85);
+  color: #fff;
+  padding: 8px;
+  border-radius: 5px;
+  z-index: 9999;
+  font-size: 14px;
+  line-height: 28px;
+  max-width: 500px;
+  transition: 300ms;
+  white-space: pre-wrap;
+}
+
+.neo-translate-box-error {
+  background: rgba(212, 207, 207, 0.85);
+  color: rgb(224, 8, 8);
+}
+
+.neo-translate-box-rtl {
+  direction: rtl;
+}

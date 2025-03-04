@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  width: 280px;
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  color: white;
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+.input-group {
+  text-align: left;
+}
+
+label {
+  display: block;
+  font-size: 14px;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+input,
+select {
+  width: 100%;
+  padding: 8px;
+  border-radius: 5px;
+  border: none;
+  font-size: 14px;
+  outline: none;
+}
+
+input {
+  background: #ffffff;
+  color: #333;
+}
+
+select {
+  background: white;
+  color: #333;
+  cursor: pointer;
+}
+
+.button-group *:not(:last-child) {
+  margin-bottom: 8px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.save-button {
+  background: #ff4b5c;
+  color: white;
+  font-weight: bold;
+}
+
+.save-button:hover {
+  background: #ff1e42;
+}
